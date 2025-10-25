@@ -95,6 +95,47 @@ main{
     font-weight: 500;
 
 }
+/* features section related */
+.features{
+    gap:140px;
+}
+
+
+.features-section-title{
+border-left:5px solid #FF900E ;
+padding-left: 20px;
+}
+.feature-card{
+     padding:30px;
+     border-radius: 8px;
+    box-shadow: 0 4px 30px 0 rgba(0,0,0,0.06);
+    margin-bottom: 20px;
+}
+.feature-card .feature-title{
+    font-weight: 600;
+    font-size: 1.25rem;
+    margin:0px;
+    margin-bottom: 0px;
+   
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 .fact{
     border: 1px solid #FF900E;
     width: 240px;
